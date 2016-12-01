@@ -1,0 +1,15 @@
+{
+	"appname": "simpleproductMattDemo",
+	"scope": "FullAccess",
+	"clientid": "F4965188-11BD-4927-AE44-358B81A0A844",
+	"buyerid": "web_buyer",
+	"catalogid": "web_buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
